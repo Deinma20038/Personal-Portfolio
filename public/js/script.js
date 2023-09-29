@@ -1,3 +1,9 @@
+    // PROJECT:	PortFolio
+    // NAME:	DEINMA IYALLA
+    // ID: 301355931
+    // DATE: 28/09/2023
+
+
 (function ($) {
     'use strict';
 
